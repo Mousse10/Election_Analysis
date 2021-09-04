@@ -42,7 +42,7 @@ Upon our analysis of the initially provided election data, we found the election
  - We were able to pull the following breakdown of the number of votes and the percentage of total votes for each county in the precinct:
 ![](analysis/County%20Breakdown.png)
  - The county with the largest number of vote is Denver. This was calculated using the following script:
-![](
+![](analysis/Largest%20County%20Script.png)
  - We were able to pull the following breakdown of the number of votes and the percentage of the total votes each candidate received:
 ![](analysis/Candidate%20Breakdown.PNG)
  - The candidate that won the election is Diana DeGette, she received 73.8% of the vote and 272,892 number of votes. This was calculated using the following script:

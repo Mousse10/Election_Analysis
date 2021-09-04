@@ -27,6 +27,17 @@ The analysts of the election show that:
 - The winner of the election was: 
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
 
-## Challenge Overview
+# Election Audit
+
+## Overview of Election Audit
+After providing the above mentioned results, the election commission requested the following additional data to complete the audit:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+This information will enable Seth, Tom and the election commission to have an overview of the results on a county basis. 
+
+## Election-Audit Results
+
+## Election-Audit Summary
 
 ## Challenge Summary

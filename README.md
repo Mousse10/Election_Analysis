@@ -39,8 +39,8 @@ This information will enable Seth, Tom and the election commission to have an ov
 ## Election-Audit Results
 Upon our analysis of the initially provided election data, we found the election outcomes below:
  - A total of 369,711 votes were cast in this congressional election
- - We were able to pull the following breakdown of the number of votes and the percentage of total votes for each county in the precinct:
-![](analysis/County%20Breakdown.png)
+ - We were able to pull the following breakdown of the number of votes and the percentage of total votes for each county in the precinct: 
+ ![](analysis/County%20Breakdown.png)
  - The county with the largest number of vote is Denver. This was calculated using the following script:
 ![](analysis/Largest%20County%20Script.png)
  - We were able to pull the following breakdown of the number of votes and the percentage of the total votes each candidate received:
